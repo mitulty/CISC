@@ -1,0 +1,7 @@
+module control_line_gen(ins,cwr,ctrl_wrd);
+input [15:0] ins;
+input [32:0] cwr;
+output ctr_wrd;
+//26-7
+wire [1:0] alu_op_bit;
+wire [4:0] Rx, [4:0] Ry;

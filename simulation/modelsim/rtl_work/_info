@@ -1,0 +1,432 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/simulation/modelsim
+valu
+Z1 !s110 1592310358
+!i10b 1
+!s100 nfL9k[V__k3Xda]eiKM4D1
+I`?IhhATcdA:B4?;ig5j463
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1592305884
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/alu.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1592310358.000000
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/alu.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor
+Z7 tCvgOpt 0
+vbranch_control
+R1
+!i10b 1
+!s100 P][Td@54V4:UKezbZICYN1
+IFN>MSC5Ezmii4^S1Yb`k90
+R2
+R0
+w1591884788
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/branch_control.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/branch_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/branch_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/branch_control.v|
+!i113 1
+R5
+R6
+R7
+vcontrol_line_gen
+R1
+!i10b 1
+!s100 K8dfkHPnFkJTh9?I]FGX?2
+I49`]jVZn:A^G;W16`CB;R0
+R2
+R0
+w1592309160
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_line_gen.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_line_gen.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_line_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_line_gen.v|
+!i113 1
+R5
+R6
+R7
+vcontrol_mux
+R1
+!i10b 1
+!s100 VCDkl3z=UOVEjoCRHE@8[1
+IQbdF2[_1Q=C1^RaGFl:bC3
+R2
+R0
+w1591982744
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_mux.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_mux.v|
+!i113 1
+R5
+R6
+R7
+vcontrol_store_rom
+R1
+!i10b 1
+!s100 _3^WNV5Nb@9>A1Pzh0>gM0
+IK`1X`SgWcRaE<PC0D4SY[2
+R2
+R0
+w1592306761
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_store_rom.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_store_rom.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_store_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/control_store_rom.v|
+!i113 1
+R5
+R6
+R7
+vcontroller
+R1
+!i10b 1
+!s100 mUzP7[_zOEC99]Vb54TUI1
+ImmK<ebS]=_fAoDSc79R7[0
+R2
+R0
+w1592306803
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/controller.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/controller.v|
+!i113 1
+R5
+R6
+R7
+vdatapath
+R1
+!i10b 1
+!s100 bUb]a]10e;LYZhG?I[gY01
+I4FU^:jLS>JYaDEOXEJXVN0
+R2
+R0
+w1592309904
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/datapath.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/datapath.v|
+!i113 1
+R5
+R6
+R7
+vdemux1x2
+R1
+!i10b 1
+!s100 3a^VDFGPB[Hn>mIOUVlAl0
+IQ1J>5Kmilnge^:Gcg6nW=2
+R2
+R0
+w1592234589
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/demux1x2.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/demux1x2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/demux1x2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/demux1x2.v|
+!i113 1
+R5
+R6
+R7
+vins_decoder
+R1
+!i10b 1
+!s100 fbDh3l?APm3mcC?Q>5biB3
+I7;eS:T@UT?FjAg9D9kMP42
+R2
+R0
+w1592294505
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/ins_decoder.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/ins_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/ins_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/ins_decoder.v|
+!i113 1
+R5
+R6
+R7
+vmemory
+R1
+!i10b 1
+!s100 bI<>]gAl5Q08`:DNEX`<11
+I_fHm4L[AdZZWoc5mmdhA:1
+R2
+R0
+w1592238623
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/memory.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/memory.v|
+!i113 1
+R5
+R6
+R7
+vmin_proc
+R1
+!i10b 1
+!s100 _GDcoYZ=Tk2WZfAD?]@^Q3
+IU54gf6]f5@HL6m;>HDX]63
+R2
+R0
+w1592306834
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/min_proc.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/min_proc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/min_proc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/min_proc.v|
+!i113 1
+R5
+R6
+R7
+vmux2x1
+R1
+!i10b 1
+!s100 kA?@F1@Q^^KDAbDAP]cLR0
+ImMUYN]EiPaeNz21z^c[>d2
+R2
+R0
+w1591851959
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux2x1.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux2x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux2x1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux2x1.v|
+!i113 1
+R5
+R6
+R7
+vmux4x1
+R1
+!i10b 1
+!s100 ^J=81BFdgK1Z3J@bB9^EV0
+I8H6zNgZ590zm@JlHO[EOz0
+R2
+R0
+w1591853521
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux4x1.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux4x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux4x1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/mux4x1.v|
+!i113 1
+R5
+R6
+R7
+vreg_CAR
+R1
+!i10b 1
+!s100 0`NUfMIRRiHVjU^DiS5[70
+IfQ2h`]]_4S89z<Jn67G180
+R2
+R0
+w1592130866
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CAR.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CAR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CAR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CAR.v|
+!i113 1
+R5
+R6
+R7
+nreg_@c@a@r
+vreg_CW
+R1
+!i10b 1
+!s100 BK6fJbh^`i><X@hmjbXXV2
+IUMKR2m^54iO]`eo4?W18=0
+R2
+R0
+w1592308842
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CW.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CW.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CW.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_CW.v|
+!i113 1
+R5
+R6
+R7
+nreg_@c@w
+vreg_IR
+R1
+!i10b 1
+!s100 Lkz>4>=^6oAcFc=[EL[LX1
+IA[hTJOgGOcGBdkm8`FFoW3
+R2
+R0
+w1591969103
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_IR.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_IR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_IR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_IR.v|
+!i113 1
+R5
+R6
+R7
+nreg_@i@r
+vreg_Nbit
+R1
+!i10b 1
+!s100 D:`h]o7LId1M:^n^DI7551
+I9EQbQ3BdKQTNX4:E7?XXz2
+R2
+R0
+w1591814228
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_Nbit.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_Nbit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_Nbit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/reg_Nbit.v|
+!i113 1
+R5
+R6
+R7
+nreg_@nbit
+vsequencing_logic
+R1
+!i10b 1
+!s100 Na<DR]eLHT:?EL;_`WZfe1
+Ig6k^_f:N];j?[4GNDj@D93
+R2
+R0
+w1592226127
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/sequencing_logic.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/sequencing_logic.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/sequencing_logic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/sequencing_logic.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R1
+!i10b 1
+!s100 8^YeK[[ZXcj@2L>PYRnA40
+IQKA[4`n8^zAzkhbI:Q7l[1
+R2
+R0
+w1592306782
+8/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/testbench.v
+F/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor|/home/morack/intelFPGA_lite/18.1/Verilog_Codes/MIN_Processor/testbench.v|
+!i113 1
+R5
+R6
+R7

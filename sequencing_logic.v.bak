@@ -1,0 +1,12 @@
+module sequencing_logic(ins,cbr);
+input [30:0] cbr;
+input [15:0] ins;
+input 
+
+assign TY=control_word[6:5];
+assign NA=control_word[4:0];
+assign DB=control_word[4:0];
+
+ins_decoder ind(IRE_val,IB,SB);
+branch_control bctrl(NA,z_flag,BC);
+control_mux mx(IB,SB,BC,DB,TY,CW_PA);

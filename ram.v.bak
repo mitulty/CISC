@@ -1,0 +1,13 @@
+`timescale 1ns / 1ps
+
+module ram(input [15:0] in,input [14:0] address,input load,clk,output [15:0] out);
+    reg [15:0] mem [5:0];
+    
+	 initial 
+		$readmemh("/home/morack/intelFPGA_lite/18.1/Verilog_Codes/RAM_Memory/ram.hex",mem);
+	 assign out = mem[address];
+    always @(posedge clk) begin
+        if(load) mem[address]=in;
+    end
+	 
+endmodule

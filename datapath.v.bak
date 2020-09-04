@@ -1,0 +1,5 @@
+module datapath(clk,rstn,control_word,z_flag);
+input clk,rstn;
+input [29:0] control_word;
+output z_flag;
+
