@@ -1,7 +1,0 @@
-moudle bi_di_bus(a,ctrl,b);
-inout a,b;
-input ctrl;
-
-bufif1 buffer1(a,b,ctrl);
-bufif1 buffer2(b,a,~ctrl);
-endmodule
