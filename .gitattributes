@@ -1,0 +1,4 @@
+* linguist-vendored
+*.v linguist-vendored=false
+*.py linguist-vendored=false
+db/* linguist-vendored
